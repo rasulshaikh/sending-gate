@@ -1,0 +1,43 @@
+{
+  "rows": [
+    {
+      "email": "jordan.lee@harborandthread.example",
+      "first_name": "Jordan",
+      "company_name": "Harbor and Thread",
+      "company_domain": "harborandthread.example",
+      "subject": "Checkout drops after your analytics hire",
+      "body": "Jordan, saw Harbor and Thread hiring an analytics engineer. We page ecommerce ops when checkout conversion quietly slips for a few hours instead of waiting for the weekly dashboard. Open to a 20-minute teardown of a fictional sample week?",
+      "icp_score": 82,
+      "sequence_key": "northwind-e1"
+    },
+    {
+      "email": "info@pixelpuppy.example",
+      "first_name": "Alex",
+      "company_name": "Pixel Puppy Agency",
+      "company_domain": "pixelpuppy.example",
+      "subject": "Quick question",
+      "body": "Hi, we help brands leverage synergy across the ecommerce landscape. TBD on the case study.",
+      "icp_score": 20,
+      "sequence_key": "northwind-e1"
+    },
+    {
+      "email": "sam.okonkwo@harborandthread.example",
+      "first_name": "Sam",
+      "company_name": "Harbor and Thread",
+      "company_domain": "otherbrand.example",
+      "subject": "Silent conversion dips",
+      "body": "Sam, noticed a domain mismatch test row. Body is long enough to pass the word count band for scoring while leaving a soft flag for review before any sequencer import happens on purpose.",
+      "icp_score": 70,
+      "sequence_key": "northwind-e1"
+    },
+    {
+      "email": "not-an-email",
+      "first_name": "Rip",
+      "company_name": "Broken Row Co",
+      "company_domain": "broken.example",
+      "subject": "",
+      "body": "",
+      "icp_score": 10
+    }
+  ]
+}
